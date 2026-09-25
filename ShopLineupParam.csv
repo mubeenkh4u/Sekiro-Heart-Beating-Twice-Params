@@ -1,0 +1,528 @@
+ID,Name,equipId,value,mtrlId,eventFlag,flagId_forRelease,sellQuantity,shopType,equipType,value_SAN,pad,value_Add,value_Magnification
+1,Default,9999,100,-1,-1,-1,-1,0,3,-1,[0|0],0,1
+1000,Spirit Emblem (Earlygame),1000,-1,-1,-1,6205,-1,0,3,-1,[0|0],0,5
+1010,Spirit Emblem (Midgame),1000,-1,-1,-1,6205,-1,0,3,-1,[0|0],0,10
+1020,Spirit Emblem (Lategame),1000,-1,-1,-1,6205,-1,0,3,-1,[0|0],0,15
+1030,Spirit Emblem (Endgame),1000,-1,-1,-1,6205,-1,0,3,-1,[0|0],0,25
+1000000,Pot Noble Harunaga - Floating Passage Text,2461,0,5,71001000,-1,1,0,3,-1,[0|0],0,1
+1000001,Pot Noble Harunaga - Withered Red Gourd,3310,0,2,71001010,-1,1,0,3,-1,[0|0],0,1
+1000002,Pot Noble Harunaga - Mask Fragment: Right,5500,0,7,71001020,-1,1,0,3,-1,[0|0],0,1
+1000003,Pot Noble Harunaga - Divine Grass,3040,0,1,71001040,-1,1,0,3,-1,[0|0],0,1
+1000004,Pot Noble Harunaga - Red Lump (NG+ Only),3051,0,3,-1,59,-1,0,3,-1,[0|0],0,1
+1000005,Pot Noble Harunaga - Mask Fragment: Left,5501,0,12,72501000,1642,1,0,3,-1,[0|0],0,1
+1000006,Pot Noble Harunaga - Lapis Lazuli,6400,0,6,72501020,1642,2,0,3,-1,[0|0],0,1
+1000007,Pot Noble Harunaga - Dragon's Blood Droplet,5600,0,1,72501030,1642,1,0,3,-1,[0|0],0,1
+1000008,送葬極樂蝶,5890,0,25,71001080,-1,1,0,3,-1,[0|0],0,1
+1000009,阿鼻,5940,0,25,71001090,-1,1,0,3,-1,[0|0],0,1
+1000010,曼硃砂華,5950,0,25,71001110,-1,1,0,3,-1,[0|0],0,1
+1000011,靛藍星殞,5970,0,25,71001120,-1,1,0,3,-1,[0|0],0,1
+1000012,6029,3720,0,5,-1,6029,-1,0,3,-1,[0|0],0,1
+1000013,6029,3721,0,10,-1,6029,-1,0,3,-1,[0|0],0,1
+1000014,6029,8450,0,9,-1,6029,-1,0,3,-1,[0|0],0,1
+1000015,6029,3708,0,1,-1,6029,-1,0,3,-1,[0|0],0,1
+1000016,6029,8490,0,14,-1,6029,-1,0,3,-1,[0|0],0,1
+1000017,6030,3061,0,20,-1,6029,-1,0,3,-1,[0|0],0,1
+1000018,Pellet cost scales,3020,0,3,-1,6029,1,0,3,-1,[0|0],0,1
+1100000,Crow's Bed Memorial Mob - Robert's Firecrackers,9710,500,-1,71101000,-1,1,0,3,-1,[0|0],0,1
+1100001,Crow's Bed Memorial Mob - Pellet,3020,50,-1,71101010,-1,4,0,3,-1,[0|0],0,1
+1100002,Crow's Bed Memorial Mob - Ungo's Sugar,3420,50,-1,71101020,-1,2,0,3,-1,[0|0],0,1
+1100003,Crow's Bed Memorial Mob - Antidote Powder,3200,30,-1,71101030,-1,6,0,3,-1,[0|0],0,1
+1100004,Crow's Bed Memorial Mob - Light Coin Purse,3700,110,-1,71101040,-1,3,0,3,-1,[0|0],0,1
+1100005,Crow's Bed Memorial Mob - Snap Seed (with Dragon's Tally Board),3530,80,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1100006,Crow's Bed Memorial Mob - Divine Confetti (with Dragon's Tally Board),3450,300,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1100007,Crow's Bed Memorial Mob - Eel Liver (with Dragon's Tally Board),3230,50,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1100008,Crow's Bed Memorial Mob - Scrap Iron (with Dragon's Tally Board),6000,150,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1100009,Crow's Bed Memorial Mob - Black Gunpowder (with Dragon's Tally Board),6100,150,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1100010,6029,3708,1100,-1,-1,6029,-1,0,3,-1,[0|0],0,1
+1100011,6029,2800,500,-1,-1,6029,-1,0,3,-1,[0|0],0,1
+1100012,6029,5600,180,-1,-1,6029,-1,0,3,-1,[0|0],0,1
+1100013,6029,3040,1000,-1,-1,6029,-1,0,3,-1,[0|0],0,1
+1100014,6029,10000,500,-1,71101140,6029,-1,0,3,-1,[0|0],0,1
+1100015,6029,9458,250,-1,-1,6029,-1,0,3,-1,[0|0],0,1
+1100050,Crow's Bed Memorial Mob - Robert's Firecrackers (with Promissory Note),9710,450,-1,71101000,-1,1,0,3,-1,[0|0],0,1
+1100051,Crow's Bed Memorial Mob - Pellet (with Promissory Note),3020,45,-1,71101010,-1,4,0,3,-1,[0|0],0,1
+1100052,Crow's Bed Memorial Mob - Ungo's Sugar (with Promissory Note),3420,45,-1,71101020,-1,2,0,3,-1,[0|0],0,1
+1100053,Crow's Bed Memorial Mob - Antidote Powder (with Promissory Note),3200,27,-1,71101030,-1,6,0,3,-1,[0|0],0,1
+1100054,Crow's Bed Memorial Mob - Light Coin Purse (with Promissory Note),3700,100,-1,71101040,-1,3,0,3,-1,[0|0],0,1
+1100055,Crow's Bed Memorial Mob - Snap Seed (with Promissory Note + Dragon's Tally Board),3530,72,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1100056,Crow's Bed Memorial Mob - Divine Confetti (with Promissory Note + Dragon's Tally Board),3450,270,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1100057,Crow's Bed Memorial Mob - Eel Liver (with Promissory Note + Dragon's Tally Board),3230,45,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1100058,Crow's Bed Memorial Mob - Scrap Iron (with Promissory Note + Dragon's Tally Board),6000,135,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1100059,Crow's Bed Memorial Mob - Black Gunpowder (with Promissory Note + Dragon's Tally Board),6100,135,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1100060,6029,3708,1000,-1,-1,6029,-1,0,3,-1,[0|0],0,1
+1100061,6029,2800,450,-1,-1,6029,-1,0,3,-1,[0|0],0,1
+1100062,6029,5600,162,-1,-1,6029,-1,0,3,-1,[0|0],0,1
+1100063,6029,3040,900,-1,-1,6029,-1,0,3,-1,[0|0],0,1
+1100064,6029,10000,450,-1,71101140,6029,-1,0,3,-1,[0|0],0,1
+1100100,Battlefield Memorial Mob - Robert's Firecrackers,9710,500,-1,71101000,-1,1,0,3,-1,[0|0],0,1
+1100101,Battlefield Memorial Mob - Gourd Seed,4400,1000,-1,71101210,-1,1,0,3,-1,[0|0],0,1
+1100102,Battlefield Memorial Mob - Antidote Powder,3200,30,-1,71101220,-1,3,0,3,-1,[0|0],0,1
+1100103,Battlefield Memorial Mob - Fistful of Ash,3510,30,-1,71101230,-1,12,0,3,-1,[0|0],0,1
+1100104,Battlefield Memorial Mob - Dragon's Blood Droplet,5600,180,-1,71101240,9090,1,0,3,-1,[0|0],0,1
+1100105,Battlefield Memorial Mob - Light Coin Purse,3700,110,-1,71101250,-1,3,0,3,-1,[0|0],0,1
+1100106,Battlefield Memorial Mob - Heavy Coin Purse,3704,550,-1,71101260,-1,2,0,3,-1,[0|0],0,1
+1100107,Battlefield Memorial Mob - Snap Seed (with Dragon's Tally Board),3530,80,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1100108,Battlefield Memorial Mob - Divine Confetti (with Dragon's Tally Board),3450,300,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1100109,Battlefield Memorial Mob - Eel Liver (with Dragon's Tally Board),3230,50,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1100110,Battlefield Memorial Mob - Scrap Iron (with Dragon's Tally Board),6000,150,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1100111,Battlefield Memorial Mob - Black Gunpowder (with Dragon's Tally Board),6100,150,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1100112,Battlefield Memorial Mob - Dragon's Blood Droplet,5600,240,-1,71101320,9095,1,0,3,-1,[0|0],0,1
+1100113,6029,2800,500,-1,-1,6029,-1,0,3,-1,[0|0],0,1
+1100114,6029,3708,1100,-1,-1,6029,-1,0,3,-1,[0|0],0,1
+1100115,6029,5600,180,-1,-1,6029,-1,0,3,-1,[0|0],0,1
+1100116,6029,3040,1000,-1,-1,6029,-1,0,3,-1,[0|0],0,1
+1100117,6029,10000,500,-1,71101370,6029,-1,0,3,-1,[0|0],0,1
+1100150,Battlefield Memorial Mob - Robert's Firecrackers (with Promissory Note),9710,450,-1,71101000,-1,1,0,3,-1,[0|0],0,1
+1100151,Battlefield Memorial Mob - Gourd Seed (with Promissory Note),4400,900,-1,71101210,-1,1,0,3,-1,[0|0],0,1
+1100152,Battlefield Memorial Mob - Antidote Powder (with Promissory Note),3200,27,-1,71101220,-1,3,0,3,-1,[0|0],0,1
+1100153,Battlefield Memorial Mob - Fistful of Ash (with Promissory Note),3510,27,-1,71101230,-1,12,0,3,-1,[0|0],0,1
+1100154,Battlefield Memorial Mob - Dragon's Blood Droplet (with Promissory Note),5600,162,-1,71101240,9090,1,0,3,-1,[0|0],0,1
+1100155,Battlefield Memorial Mob - Light Coin Purse (with Promissory Note),3700,100,-1,71101250,-1,3,0,3,-1,[0|0],0,1
+1100156,Battlefield Memorial Mob - Heavy Coin Purse (with Promissory Note),3704,500,-1,71101260,-1,2,0,3,-1,[0|0],0,1
+1100157,Battlefield Memorial Mob - Snap Seed (with Promissory Note + Dragon's Tally Board),3530,72,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1100158,Battlefield Memorial Mob - Divine Confetti (with Promissory Note + Dragon's Tally Board),3450,270,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1100159,Battlefield Memorial Mob - Eel Liver (with Promissory Note + Dragon's Tally Board),3230,45,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1100160,Battlefield Memorial Mob - Scrap Iron (with Promissory Note + Dragon's Tally Board),6000,135,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1100161,Battlefield Memorial Mob - Black Gunpowder (with Promissory Note + Dragon's Tally Board),6100,135,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1100162,Battlefield Memorial Mob - Dragon's Blood Droplet (with Promissory Note),5600,216,-1,71101320,9095,1,0,3,-1,[0|0],0,1
+1100163,6029,2800,450,-1,-1,6029,-1,0,3,-1,[0|0],0,1
+1100164,6029,3708,1000,-1,-1,6029,-1,0,3,-1,[0|0],0,1
+1100165,6029,5600,162,-1,-1,6029,-1,0,3,-1,[0|0],0,1
+1100166,6029,3040,900,-1,-1,6029,-1,0,3,-1,[0|0],0,1
+1100167,6029,10000,450,-1,71101370,6029,-1,0,3,-1,[0|0],0,1
+1100200,Anayama - Phantom Kunai,9701,3000,-1,71101400,-1,1,0,3,-1,[0|0],0,1
+1100201,Anayama - Ceramic Shard,3500,20,-1,71101410,-1,8,0,3,-1,[0|0],0,1
+1100202,Anayama - Fistful of Ash,3510,30,-1,71101420,-1,6,0,3,-1,[0|0],0,1
+1100203,Anayama - Pellet,3020,50,-1,71101430,-1,2,0,3,-1,[0|0],0,1
+1100204,Anayama - Light Coin Purse,3700,110,-1,71101440,-1,5,0,3,-1,[0|0],0,1
+1100205,Anayama - Scrap Iron,6000,150,-1,-1,9041,-1,0,3,-1,[0|0],0,1
+1100206,Anayama - Black Gunpowder,6100,150,-1,-1,9041,-1,0,3,-1,[0|0],0,1
+1100207,Anayama - Yashariku's Sugar,3410,130,-1,71101470,71100253,2,0,3,-1,[0|0],0,1
+1100208,Anayama - Gokan's Sugar,3430,80,-1,71101480,71100253,5,0,3,-1,[0|0],0,1
+1100209,Anayama - Heavy Coin Purse,3704,550,-1,71101490,71100253,2,0,3,-1,[0|0],0,1
+1100210,Anayama - Scrap Magnetite,6010,300,-1,71101500,71100254,4,0,3,-1,[0|0],0,1
+1100211,Anayama - Yellow Gunpowder,6200,300,-1,71101510,71100254,3,0,3,-1,[0|0],0,1
+1100212,Anayama - Lump of Fat Wax,6300,300,-1,71101520,71100254,3,0,3,-1,[0|0],0,1
+1100213,Anayama - Bulging Coin Purse,3708,1100,-1,71101530,71100254,2,0,3,-1,[0|0],0,1
+1100214,Anayama - Ako's Sugar,3400,120,-1,-1,71100254,-1,0,3,-1,[0|0],0,1
+1100215,Anayama - Divine Grass,3040,200,-1,71101550,71100277,1,0,3,-1,[0|0],0,1
+1100216,Anayama - Snap Seed (with Dragon's Tally Board),3530,80,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1100217,Anayama - Divine Confetti (with Dragon's Tally Board),3450,300,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1100218,Anayama - Eel Liver (with Dragon's Tally Board),3230,50,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1100219,6029,5600,180,-1,-1,6029,-1,0,3,-1,[0|0],0,1
+1100220,6029,2800,500,-1,-1,6029,-1,0,3,-1,[0|0],0,1
+1100221,6029,3040,1000,-1,-1,6029,-1,0,3,-1,[0|0],0,1
+1100222,6029,3640,1000,-1,-1,6029,-1,0,3,-1,[0|0],0,1
+1100223,6029,10000,500,-1,71101630,6029,-1,0,3,-1,[0|0],0,1
+1100250,Anayama - Phantom Kunai (with Promissory Note),9701,2700,-1,71101400,-1,1,0,3,-1,[0|0],0,1
+1100251,Anayama - Ceramic Shard (with Promissory Note),3500,18,-1,71101410,-1,8,0,3,-1,[0|0],0,1
+1100252,Anayama - Fistful of Ash (with Promissory Note),3510,27,-1,71101420,-1,6,0,3,-1,[0|0],0,1
+1100253,Anayama - Pellet (with Promissory Note),3020,45,-1,71101430,-1,2,0,3,-1,[0|0],0,1
+1100254,Anayama - Light Coin Purse (with Promissory Note),3700,100,-1,71101440,-1,5,0,3,-1,[0|0],0,1
+1100255,Anayama - Scrap Iron (with Promissory Note),6000,135,-1,-1,9041,-1,0,3,-1,[0|0],0,1
+1100256,Anayama - Black Gunpowder (with Promissory Note),6100,135,-1,-1,9041,-1,0,3,-1,[0|0],0,1
+1100257,Anayama - Yashariku's Sugar (with Promissory Note),3410,117,-1,71101470,71100253,2,0,3,-1,[0|0],0,1
+1100258,Anayama - Gokan's Sugar (with Promissory Note),3430,72,-1,71101480,71100253,5,0,3,-1,[0|0],0,1
+1100259,Anayama - Heavy Coin Purse (with Promissory Note),3704,500,-1,71101490,71100253,2,0,3,-1,[0|0],0,1
+1100260,Anayama - Scrap Magnetite (with Promissory Note),6010,270,-1,71101500,71100254,4,0,3,-1,[0|0],0,1
+1100261,Anayama - Yellow Gunpowder (with Promissory Note),6200,270,-1,71101510,71100254,3,0,3,-1,[0|0],0,1
+1100262,Anayama - Lump of Fat Wax (with Promissory Note),6300,270,-1,71101520,71100254,3,0,3,-1,[0|0],0,1
+1100263,Anayama - Bulging Coin Purse (with Promissory Note),3708,1000,-1,71101530,71100254,2,0,3,-1,[0|0],0,1
+1100264,Anayama - Ako's Sugar (with Promissory Note),3400,108,-1,-1,71100254,-1,0,3,-1,[0|0],0,1
+1100265,Anayama - Divine Grass (with Promissory Note),3040,180,-1,71101550,71100277,1,0,3,-1,[0|0],0,1
+1100266,Anayama - Snap Seed (with Promissory Note + Dragon's Tally Board),3530,72,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1100267,Anayama - Divine Confetti (with Promissory Note + Dragon's Tally Board),3450,270,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1100268,Anayama - Eel Liver (with Promissory Note + Dragon's Tally Board),3230,45,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1100269,6029,5600,162,-1,-1,6029,-1,0,3,-1,[0|0],0,1
+1100270,6029,2800,450,-1,-1,6029,-1,0,3,-1,[0|0],0,1
+1100271,6029,3040,900,-1,-1,6029,-1,0,3,-1,[0|0],0,1
+1100272,6029,3640,900,-1,-1,6029,-1,0,3,-1,[0|0],0,1
+1100273,6029,10000,450,-1,71101630,6029,-1,0,3,-1,[0|0],0,1
+1100300,Anayama - Promissory Note,9061,-1,-1,71101800,-1,1,0,3,-1,[0|0],0,1
+1100400,Fujioka - Gourd Seed,4400,2000,-1,71102000,-1,1,0,3,-1,[0|0],0,1
+1100401,Fujioka - Pellet,3020,80,-1,71102010,-1,8,0,3,-1,[0|0],0,1
+1100402,Fujioka - Antidote Powder,3200,100,-1,-1,-1,-1,0,3,-1,[0|0],0,1
+1100403,Fujioka - Dousing Powder,3210,100,-1,-1,-1,-1,0,3,-1,[0|0],0,1
+1100404,Fujioka - Pacifying Agent,3220,100,-1,-1,-1,-1,0,3,-1,[0|0],0,1
+1100405,Fujioka - Ungo's Sugar,3420,120,-1,-1,-1,-1,0,3,-1,[0|0],0,1
+1100406,Fujioka - Sabimaru Memo,9221,500,-1,71102050,-1,1,0,3,-1,[0|0],0,1
+1100407,Fujioka - Valley Apparitions Memo,9223,800,-1,71102060,8307,1,0,3,-1,[0|0],0,1
+1100408,Fujioka - Three-story Pagoda Memo,9225,500,-1,71102070,-1,1,0,3,-1,[0|0],0,1
+1100409,Fujioka - Light Coin Purse,3700,110,-1,71102080,-1,3,0,3,-1,[0|0],0,1
+1100410,Fujioka - Heavy Coin Purse,3704,550,-1,71102090,-1,3,0,3,-1,[0|0],0,1
+1100411,Fujioka - Dragon's Blood Droplet,5600,180,-1,71102100,9091,2,0,3,-1,[0|0],0,1
+1100412,Fujioka - Snap Seed (with Dragon's Tally Board),3530,80,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1100413,Fujioka - Divine Confetti (with Dragon's Tally Board),3450,300,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1100414,Fujioka - Eel Liver (with Dragon's Tally Board),3230,50,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1100415,Fujioka - Scrap Iron (with Dragon's Tally Board),6000,150,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1100416,Fujioka - Black Gunpowder (with Dragon's Tally Board),6100,150,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1100417,Fujioka - Dragon's Blood Droplet,5600,240,-1,71102160,9096,1,0,3,-1,[0|0],0,1
+1100418,6029,5600,180,-1,-1,6029,-1,0,3,-1,[0|0],0,1
+1100419,6029,2800,500,-1,-1,6029,-1,0,3,-1,[0|0],0,1
+1100420,6029,3040,1000,-1,-1,6029,-1,0,3,-1,[0|0],0,1
+1100421,6029,3708,1100,-1,-1,6029,-1,0,3,-1,[0|0],0,1
+1100422,6029,10000,500,-1,71102210,6029,-1,0,3,-1,[0|0],0,1
+1100450,Fujioka - Gourd Seed (with Promissory Note),4400,1800,-1,71102000,-1,1,0,3,-1,[0|0],0,1
+1100451,Fujioka - Pellet (with Promissory Note),3020,72,-1,71102010,-1,8,0,3,-1,[0|0],0,1
+1100452,Fujioka - Antidote Powder (with Promissory Note),3200,90,-1,-1,-1,-1,0,3,-1,[0|0],0,1
+1100453,Fujioka - Dousing Powder (with Promissory Note),3210,90,-1,-1,-1,-1,0,3,-1,[0|0],0,1
+1100454,Fujioka - Pacifying Agent (with Promissory Note),3220,90,-1,-1,-1,-1,0,3,-1,[0|0],0,1
+1100455,Fujioka - Ungo's Sugar (with Promissory Note),3420,108,-1,-1,-1,-1,0,3,-1,[0|0],0,1
+1100456,Fujioka - Sabimaru Memo (with Promissory Note),9221,450,-1,71102050,-1,1,0,3,-1,[0|0],0,1
+1100457,Fujioka - Valley Apparitions Memo (with Promissory Note),9223,720,-1,71102060,8307,1,0,3,-1,[0|0],0,1
+1100458,Fujioka - Three-story Pagoda Memo (with Promissory Note),9225,450,-1,71102070,-1,1,0,3,-1,[0|0],0,1
+1100459,Fujioka - Light Coin Purse (with Promissory Note),3700,100,-1,71102080,-1,3,0,3,-1,[0|0],0,1
+1100460,Fujioka - Heavy Coin Purse (with Promissory Note),3704,500,-1,71102090,-1,3,0,3,-1,[0|0],0,1
+1100461,Fujioka - Dragon's Blood Droplet (with Promissory Note),5600,162,-1,71102100,9091,2,0,3,-1,[0|0],0,1
+1100462,Fujioka - Snap Seed (with Promissory Note + Dragon's Tally Board),3530,72,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1100463,Fujioka - Divine Confetti (with Promissory Note + Dragon's Tally Board),3450,270,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1100464,Fujioka - Eel Liver (with Promissory Note + Dragon's Tally Board),3230,45,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1100465,Fujioka - Scrap Iron (with Promissory Note + Dragon's Tally Board),6000,135,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1100466,Fujioka - Black Gunpowder (with Promissory Note + Dragon's Tally Board),6100,135,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1100467,Fujioka - Dragon's Blood Droplet (with Promissory Note),5600,216,-1,71102160,9096,1,0,3,-1,[0|0],0,1
+1100468,6029,5600,162,-1,-1,6029,-1,0,3,-1,[0|0],0,1
+1100469,6029,2800,450,-1,-1,6029,-1,0,3,-1,[0|0],0,1
+1100470,6029,3040,900,-1,-1,6029,-1,0,3,-1,[0|0],0,1
+1100471,6029,3708,1000,-1,-1,6029,-1,0,3,-1,[0|0],0,1
+1100472,6029,10000,450,-1,71102210,6029,-1,0,3,-1,[0|0],0,1
+1100500,Offering Box - Anti-air Deathblow Text,2450,2200,-1,71102200,9020,1,0,3,-1,[0|0],0,1
+1100501,Offering Box - Prayer Bead,4000,1500,-1,71102210,9021,1,0,3,-1,[0|0],0,1
+1100502,Offering Box - Prayer Bead,4000,1500,-1,71102220,9022,1,0,3,-1,[0|0],0,1
+1100503,Offering Box - Shuriken Wheel,9700,2800,-1,71102230,9023,1,0,3,-1,[0|0],0,1
+1100504,Offering Box - Gyoubu's Broken Horn,9780,2800,-1,71102240,9024,1,0,3,-1,[0|0],0,1
+1100505,Offering Box - Gourd Seed,4400,2400,-1,71102250,9025,1,0,3,-1,[0|0],0,1
+1100506,Offering Box - Phantom Kunai,9701,4500,-1,71102260,9026,1,0,3,-1,[0|0],0,1
+1100507,Offering Box - Prayer Bead,4000,2200,-1,71102270,9027,1,0,3,-1,[0|0],0,1
+1100508,Offering Box - Prayer Bead,4000,2200,-1,71102280,9028,1,0,3,-1,[0|0],0,1
+1100509,Offering Box - Prayer Bead,4000,2200,-1,71102290,9029,1,0,3,-1,[0|0],0,1
+1100510,Offering Box - Robert's Firecrackers,9710,2400,-1,71102300,9030,1,0,3,-1,[0|0],0,1
+1100511,Offering Box - Gourd Seed,4400,2400,-1,71102310,9031,1,0,3,-1,[0|0],0,1
+1100512,Offering Box - Prayer Bead,4000,2200,-1,71102320,9032,1,0,3,-1,[0|0],0,1
+1100513,Offering Box - Mask Fragment: Dragon,5502,7500,-1,71102330,9033,1,0,3,-1,[0|0],0,1
+1100514,Offering Box - Iron Fortress,9760,2400,-1,71102340,9034,1,0,3,-1,[0|0],0,1
+1100515,Offering Box - Prayer Bead,4000,2200,-1,71102350,9035,1,0,3,-1,[0|0],0,1
+1101000,Sculptor - Loaded Shuriken,70000,0,100000,71101600,6500,1,0,0,-1,[0|0],0,1
+1101001,Sculptor - Shinobi Firecracker,71000,0,100010,71101610,6501,1,0,0,-1,[0|0],0,1
+1101002,Sculptor - Flame Barrel,72000,0,100020,71101620,6502,1,0,0,-1,[0|0],0,1
+1101003,Sculptor - Loaded Axe,73000,0,100030,71101630,6503,1,0,0,-1,[0|0],0,1
+1101004,Sculptor - Mist Raven,74000,0,100040,71101640,6504,1,0,0,-1,[0|0],0,1
+1101005,Sculptor - Sabimaru,75000,0,100050,71101650,6505,1,0,0,-1,[0|0],0,1
+1101006,Sculptor - Loaded Umbrella,76000,0,100060,71101660,6506,1,0,0,-1,[0|0],0,1
+1101007,Sculptor - Divine Abduction,77000,0,100070,71101670,6507,1,0,0,-1,[0|0],0,1
+1101008,Sculptor - Loaded Spear,78000,0,100080,71101680,6508,1,0,0,-1,[0|0],0,1
+1101009,Sculptor - Finger Whistle,79000,0,100090,71101690,6509,1,0,0,-1,[0|0],0,1
+1110000,Dungeon Memorial Mob - Prayer Bead,4000,1400,-1,71111000,-1,1,0,3,-1,[0|0],0,1
+1110001,Dungeon Memorial Mob - Mask Fragment: Dragon,5502,5000,-1,71111010,-1,1,0,3,-1,[0|0],0,1
+1110002,Dungeon Memorial Mob - Pellet,3020,80,-1,71111020,-1,4,0,3,-1,[0|0],0,1
+1110003,Dungeon Memorial Mob - Contact Medicine,3250,30,-1,71111030,-1,8,0,3,-1,[0|0],0,1
+1110004,Dungeon Memorial Mob - Light Coin Purse,3700,110,-1,71111040,-1,4,0,3,-1,[0|0],0,1
+1110005,Dungeon Memorial Mob - Heavy Coin Purse,3704,550,-1,71111050,-1,3,0,3,-1,[0|0],0,1
+1110006,Dungeon Memorial Mob - Mibu Possession Balloon,3620,50,-1,71111060,-1,2,0,3,-1,[0|0],0,1
+1110007,Dungeon Memorial Mob - Dragon's Blood Droplet,5600,180,-1,71111070,9092,1,0,3,-1,[0|0],0,1
+1110008,Dungeon Memorial Mob - Snap Seed (with Dragon's Tally Board),3530,80,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1110009,Dungeon Memorial Mob - Divine Confetti (with Dragon's Tally Board),3450,300,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1110010,Dungeon Memorial Mob - Eel Liver (with Dragon's Tally Board),3230,50,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1110011,Dungeon Memorial Mob - Scrap Iron (with Dragon's Tally Board),6000,150,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1110012,Dungeon Memorial Mob - Black Gunpowder (with Dragon's Tally Board),6100,150,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1110013,Dungeon Memorial Mob - Dragon's Blood Droplet,5600,240,-1,71111130,9097,1,0,3,-1,[0|0],0,1
+1110014,,2800,500,-1,71111140,-1,-1,0,3,-1,[0|0],0,1
+1110015,6029,3040,1000,-1,-1,6029,-1,0,3,-1,[0|0],0,1
+1110016,6029,2850,600,-1,-1,6029,-1,0,3,-1,[0|0],0,1
+1110017,6029,3070,30,-1,-1,6029,-1,0,3,-1,[0|0],0,1
+1110018,6029,3708,1100,-1,-1,6029,-1,0,3,-1,[0|0],0,1
+1110019,6029,10000,500,-1,71111190,6029,-1,0,3,-1,[0|0],0,1
+1110050,Dungeon Memorial Mob - Prayer Bead (with Promissory Note),4000,1260,-1,71111000,-1,1,0,3,-1,[0|0],0,1
+1110051,Dungeon Memorial Mob - Mask Fragment: Dragon (with Promissory Note),5502,4500,-1,71111010,-1,1,0,3,-1,[0|0],0,1
+1110052,Dungeon Memorial Mob - Pellet (with Promissory Note),3020,72,-1,71111020,-1,4,0,3,-1,[0|0],0,1
+1110053,Dungeon Memorial Mob - Contact Medicine (with Promissory Note),3250,27,-1,71111030,-1,8,0,3,-1,[0|0],0,1
+1110054,Dungeon Memorial Mob - Light Coin Purse (with Promissory Note),3700,100,-1,71111040,-1,4,0,3,-1,[0|0],0,1
+1110055,Dungeon Memorial Mob - Heavy Coin Purse (with Promissory Note),3704,500,-1,71111050,-1,3,0,3,-1,[0|0],0,1
+1110056,Dungeon Memorial Mob - Mibu Possession Balloon (with Promissory Note),3620,45,-1,71111060,-1,2,0,3,-1,[0|0],0,1
+1110057,Dungeon Memorial Mob - Dragon's Blood Droplet (with Promissory Note),5600,162,-1,71111070,9092,1,0,3,-1,[0|0],0,1
+1110058,Dungeon Memorial Mob - Snap Seed (with Promissory Note + Dragon's Tally Board),3530,72,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1110059,Dungeon Memorial Mob - Divine Confetti (with Promissory Note + Dragon's Tally Board),3450,270,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1110060,Dungeon Memorial Mob - Eel Liver (with Promissory Note + Dragon's Tally Board),3230,45,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1110061,Dungeon Memorial Mob - Scrap Iron (with Promissory Note + Dragon's Tally Board),6000,135,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1110062,Dungeon Memorial Mob - Black Gunpowder (with Promissory Note + Dragon's Tally Board),6100,135,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1110063,Dungeon Memorial Mob - Dragon's Blood Droplet (with Promissory Note),5600,216,-1,71111130,9097,1,0,3,-1,[0|0],0,1
+1110064,,2800,450,-1,71111140,-1,-1,0,3,-1,[0|0],0,1
+1110065,6029,3040,900,-1,-1,6029,-1,0,3,-1,[0|0],0,1
+1110066,6029,2850,540,-1,-1,6029,-1,0,3,-1,[0|0],0,1
+1110067,6029,3070,27,-1,-1,6029,-1,0,3,-1,[0|0],0,1
+1110068,6029,3708,1000,-1,-1,6029,-1,0,3,-1,[0|0],0,1
+1110069,6029,10000,450,-1,71111190,6029,-1,0,3,-1,[0|0],0,1
+1111400,Blackhat Badger - Iron Fortress,9760,1600,-1,71111500,-1,1,0,3,-1,[0|0],0,1
+1111401,Blackhat Badger - Anti-air Deathblow Text,2450,1200,-1,71111510,-1,1,0,3,-1,[0|0],0,1
+1111402,Blackhat Badger - Snap Seed,3530,80,-1,71111520,9400,8,0,3,-1,[0|0],0,1
+1111403,Blackhat Badger - Yashariku's Sugar,3410,130,-1,71111530,-1,3,0,3,-1,[0|0],0,1
+1111404,Blackhat Badger - Bite Down,3290,30,-1,71111540,-1,2,0,3,-1,[0|0],0,1
+1111405,Blackhat Badger - Snap Seed (with Dragon's Tally Board),3530,80,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1111406,Blackhat Badger - Divine Confetti (with Dragon's Tally Board),3450,300,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1111407,Blackhat Badger - Eel Liver (with Dragon's Tally Board),3230,50,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1111408,Blackhat Badger - Scrap Iron (with Dragon's Tally Board),6000,150,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1111409,Blackhat Badger - Black Gunpowder (with Dragon's Tally Board),6100,150,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1111410,6029,2800,500,-1,-1,6029,-1,0,3,-1,[0|0],0,1
+1111411,6029,5600,180,-1,-1,6029,-1,0,3,-1,[0|0],0,1
+1111412,6029,3040,1000,-1,-1,6029,-1,0,3,-1,[0|0],0,1
+1111413,6029,2880,700,-1,-1,6029,-1,0,3,-1,[0|0],0,1
+1111414,6029,10000,500,-1,71111640,6029,-1,0,3,-1,[0|0],0,1
+1111450,Blackhat Badger - Iron Fortress (with Promissory Note),9760,1440,-1,71111500,-1,1,0,3,-1,[0|0],0,1
+1111451,Blackhat Badger - Anti-air Deathblow Text (with Promissory Note),2450,1080,-1,71111510,-1,1,0,3,-1,[0|0],0,1
+1111452,Blackhat Badger - Snap Seed (with Promissory Note),3530,72,-1,71111520,9400,8,0,3,-1,[0|0],0,1
+1111453,Blackhat Badger - Yashariku's Sugar (with Promissory Note),3410,117,-1,71111530,-1,3,0,3,-1,[0|0],0,1
+1111454,Blackhat Badger - Bite Down (with Promissory Note),3290,27,-1,71111540,-1,2,0,3,-1,[0|0],0,1
+1111455,Blackhat Badger - Snap Seed (with Promissory Note + Dragon's Tally Board),3530,72,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1111456,Blackhat Badger - Divine Confetti (with Promissory Note + Dragon's Tally Board),3450,270,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1111457,Blackhat Badger - Eel Liver (with Promissory Note + Dragon's Tally Board),3230,45,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1111458,Blackhat Badger - Scrap Iron (with Promissory Note + Dragon's Tally Board),6000,135,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1111459,Blackhat Badger - Black Gunpowder (with Promissory Note + Dragon's Tally Board),6100,135,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1111460,6029,2800,450,-1,-1,6029,-1,0,3,-1,[0|0],0,1
+1111461,6029,5600,162,-1,-1,6029,-1,0,3,-1,[0|0],0,1
+1111462,6029,3040,900,-1,-1,6029,-1,0,3,-1,[0|0],0,1
+1111463,6029,2880,630,-1,-1,6029,-1,0,3,-1,[0|0],0,1
+1111464,6029,10000,450,-1,71111640,6029,-1,0,3,-1,[0|0],0,1
+1400000,Furukawa maid shop test 2,3450,300,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1400001,Divine Grass Fukukawa Pan,3040,900,-1,-1,6029,-1,0,3,-1,[0|0],0,1
+1400002,Fukurakwa Fine Snow,3081,800,-1,-1,6029,-1,0,3,-1,[0|0],0,1
+1400003,Yashariku (Dragon Tallyboard),3410,130,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1400004,TEST MAID ITEM,8490,2000,-1,71501090,-1,1,0,3,-1,[0|0],0,1
+1400005,Furukawa Selling Self-illness poison,3250,30,-1,71111030,-1,-1,0,3,-1,[0|0],0,1
+1400006,test twice,6010,330,-1,0,-1,8,0,3,-1,[0|0],0,1
+1400007,Fistiful of Ash Furukawa NPC,3510,20,-1,72501040,-1,24,0,3,-1,[0|0],0,1
+1400008,Red Lump Furukawa,3051,150,-1,72001090,-1,8,0,3,-1,[0|0],0,1
+1400009,Scales from Furokawa,10000,200,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1400010,Poison Bestowal,3082,420,-1,-1,6029,-1,0,3,-1,[0|0],0,1
+1400011,DragonRot Pellet from Furokawa,5600,100,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1400012,Tenmato,8460,220,-1,-1,6029,-1,0,3,-1,[0|0],0,1
+1400050,Furukawa after Promisonary note,3450,225,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1400051,Furukawa after Promisonary note,3040,675,-1,-1,6029,-1,0,3,-1,[0|0],0,1
+1400052,Furukawa after Promisonary note,3081,600,-1,-1,6029,-1,0,3,-1,[0|0],0,1
+1400053,Furukawa after Promisonary note,3410,100,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1400054,Furukawa after Promisonary note,8490,1800,-1,71501090,-1,1,0,3,-1,[0|0],0,1
+1400055,Furukawa after Promisonary note,3250,22,-1,71111030,-1,-1,0,3,-1,[0|0],0,1
+1400056,Furukawa after Promisonary note,6010,250,-1,0,-1,8,0,3,-1,[0|0],0,1
+1400057,Furukawa after Promisonary note,3510,15,-1,72501040,-1,24,0,3,-1,[0|0],0,1
+1400058,Furukawa after Promisonary note,3051,112,-1,72001090,-1,8,0,3,-1,[0|0],0,1
+1400059,Furukawa after Promisonary note,10000,150,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1400060,Furukawa after Promisonary note,3082,370,-1,-1,6029,-1,0,3,-1,[0|0],0,1
+1400061,Furukawa after Promisonary note,5600,36,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1400062,Furukawa after Promisonary note,8460,170,-1,-1,6029,-1,0,3,-1,[0|0],0,1
+1500000,Exiled Memorial Mob - Mottled Purple Gourd,3320,1800,-1,71501000,-1,1,0,3,-1,[0|0],0,1
+1500001,Exiled Memorial Mob - Pellet,3020,80,-1,71501010,-1,5,0,3,-1,[0|0],0,1
+1500002,Exiled Memorial Mob - Adamantite Scrap,6020,600,-1,71501020,-1,2,0,3,-1,[0|0],0,1
+1500003,Exiled Memorial Mob - Gachiin's Sugar,3440,100,-1,71501030,-1,2,0,3,-1,[0|0],0,1
+1500004,Exiled Memorial Mob - Heavy Coin Purse,3704,550,-1,71501040,-1,3,0,3,-1,[0|0],0,1
+1500005,Exiled Memorial Mob - Bulging Coin Purse,3708,1100,-1,71501050,-1,2,0,3,-1,[0|0],0,1
+1500006,Exiled Memorial Mob - Treasure Carp Scale,10000,500,-1,71501070,-1,2,0,3,-1,[0|0],0,1
+1500007,Exiled Memorial Mob - Dragonspring Sake,9103,1000,-1,71501080,-1,1,0,3,-1,[0|0],0,1
+1500008,Exiled Memorial Mob - Snap Seed (with Dragon's Tally Board),3530,80,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1500009,Exiled Memorial Mob - Divine Confetti (with Dragon's Tally Board),3450,300,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1500010,Exiled Memorial Mob - Eel Liver (with Dragon's Tally Board),3230,50,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1500011,Exiled Memorial Mob - Scrap Iron (with Dragon's Tally Board),6000,150,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1500012,Exiled Memorial Mob - Black Gunpowder (with Dragon's Tally Board),6100,150,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1500013,,2800,500,-1,71501130,-1,-1,0,3,-1,[0|0],0,1
+1500014,6029,8460,900,-1,71501140,6029,-1,0,3,-1,[0|0],0,1
+1500015,6029,8450,3000,-1,71501150,6029,-1,0,3,-1,[0|0],0,1
+1500016,6029,6620,500,-1,-1,6029,-1,0,3,-1,[0|0],0,1
+1500017,6029,2880,700,-1,-1,6029,-1,0,3,-1,[0|0],0,1
+1500018,6029,6700,2000,-1,-1,6029,-1,0,3,-1,[0|0],0,1
+1500050,Exiled Memorial Mob - Mottled Purple Gourd (with Promissory Note),3320,1620,-1,71501000,-1,1,0,3,-1,[0|0],0,1
+1500051,Exiled Memorial Mob - Pellet (with Promissory Note),3020,72,-1,71501010,-1,5,0,3,-1,[0|0],0,1
+1500052,Exiled Memorial Mob - Adamantite Scrap (with Promissory Note),6020,540,-1,71501020,-1,2,0,3,-1,[0|0],0,1
+1500053,Exiled Memorial Mob - Gachiin's Sugar (with Promissory Note),3440,90,-1,71501030,-1,2,0,3,-1,[0|0],0,1
+1500054,Exiled Memorial Mob - Heavy Coin Purse (with Promissory Note),3704,500,-1,71501040,-1,3,0,3,-1,[0|0],0,1
+1500055,Exiled Memorial Mob - Bulging Coin Purse (with Promissory Note),3708,1000,-1,71501050,-1,2,0,3,-1,[0|0],0,1
+1500056,Exiled Memorial Mob - Treasure Carp Scale (with Promissory Note),10000,450,-1,71501070,-1,2,0,3,-1,[0|0],0,1
+1500057,Exiled Memorial Mob - Dragonspring Sake (with Promissory Note),9103,900,-1,71501080,-1,1,0,3,-1,[0|0],0,1
+1500058,Exiled Memorial Mob - Snap Seed (with Promissory Note + Dragon's Tally Board),3530,72,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1500059,Exiled Memorial Mob - Divine Confetti (with Promissory Note + Dragon's Tally Board),3450,270,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1500060,Exiled Memorial Mob - Eel Liver (with Promissory Note + Dragon's Tally Board),3230,45,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1500061,Exiled Memorial Mob - Scrap Iron (with Promissory Note + Dragon's Tally Board),6000,135,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1500062,Exiled Memorial Mob - Black Gunpowder (with Promissory Note + Dragon's Tally Board),6100,135,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1500063,,2800,450,-1,71501130,-1,-1,0,3,-1,[0|0],0,1
+1500064,6029,8460,810,-1,71501140,6029,-1,0,3,-1,[0|0],0,1
+1500065,6029,8450,2700,-1,71501150,6029,-1,0,3,-1,[0|0],0,1
+1500066,6029,6620,450,-1,-1,6029,-1,0,3,-1,[0|0],0,1
+1500067,6029,2880,630,-1,-1,6029,-1,0,3,-1,[0|0],0,1
+1500068,6029,6700,1800,-1,-1,6029,-1,0,3,-1,[0|0],0,1
+1700000,Toxic Memorial Mob - Green Mossy Gourd,3300,1800,-1,71701000,-1,1,0,3,-1,[0|0],0,1
+1700001,Toxic Memorial Mob - Pellet,3020,80,-1,71701010,-1,5,0,3,-1,[0|0],0,1
+1700002,Toxic Memorial Mob - Antidote Powder,3200,120,-1,-1,-1,-1,0,3,-1,[0|0],0,1
+1700003,Toxic Memorial Mob - Yellow Gunpowder,6200,270,-1,71701030,-1,2,0,3,-1,[0|0],0,1
+1700004,Toxic Memorial Mob - Heavy Coin Purse,3704,550,-1,71701040,-1,5,0,3,-1,[0|0],0,1
+1700005,Toxic Memorial Mob - Dragon's Blood Droplet,5600,240,-1,71701110,9099,2,0,3,-1,[0|0],0,1
+1700005,Toxic Memorial Mob - Dragon's Blood Droplet,5600,180,-1,71701050,9094,2,0,3,-1,[0|0],0,1
+1700006,Toxic Memorial Mob - Snap Seed (with Dragon's Tally Board),3530,80,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1700007,Toxic Memorial Mob - Divine Confetti (with Dragon's Tally Board),3450,300,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1700008,Toxic Memorial Mob - Eel Liver (with Dragon's Tally Board),3230,50,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1700009,Toxic Memorial Mob - Scrap Iron (with Dragon's Tally Board),6000,150,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1700010,Toxic Memorial Mob - Black Gunpowder (with Dragon's Tally Board),6100,150,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1700011,,2800,500,-1,71701110,-1,-1,0,3,-1,[0|0],0,1
+1700012,,6700,2000,-1,71701120,-1,-1,0,3,-1,[0|0],0,1
+1700013,瘴氣屍蠟: 心臟,9335,30000,-1,71701130,-1,1,0,3,-1,[0|0],0,1
+1700014,6029,2800,500,-1,-1,6029,-1,0,3,-1,[0|0],0,1
+1700015,6029,3040,1000,-1,-1,6029,-1,0,3,-1,[0|0],0,1
+1700016,6029,3708,1100,-1,-1,6029,-1,0,3,-1,[0|0],0,1
+1700017,6029,3030,240,-1,-1,6029,-1,0,3,-1,[0|0],0,1
+1700018,6029,10000,500,-1,71701180,6029,-1,0,3,-1,[0|0],0,1
+1700050,Toxic Memorial Mob - Green Mossy Gourd (with Promissory Note),3300,1620,-1,71701000,-1,1,0,3,-1,[0|0],0,1
+1700051,Toxic Memorial Mob - Pellet (with Promissory Note),3020,72,-1,71701010,-1,5,0,3,-1,[0|0],0,1
+1700052,Toxic Memorial Mob - Antidote Powder (with Promissory Note),3200,108,-1,-1,-1,-1,0,3,-1,[0|0],0,1
+1700053,Toxic Memorial Mob - Yellow Gunpowder (with Promissory Note),6200,243,-1,71701030,-1,2,0,3,-1,[0|0],0,1
+1700054,Toxic Memorial Mob - Heavy Coin Purse (with Promissory Note),3704,500,-1,71701040,-1,5,0,3,-1,[0|0],0,1
+1700055,Toxic Memorial Mob - Dragon's Blood Droplet (with Promissory Note),5600,216,-1,71701110,9099,-1,0,3,-1,[0|0],0,1
+1700055,Toxic Memorial Mob - Dragon's Blood Droplet (with Promissory Note),5600,162,-1,71701050,9094,2,0,3,-1,[0|0],0,1
+1700056,Toxic Memorial Mob - Snap Seed (with Promissory Note + Dragon's Tally Board),3530,72,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1700057,Toxic Memorial Mob - Divine Confetti (with Promissory Note + Dragon's Tally Board),3450,270,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1700058,Toxic Memorial Mob - Eel Liver (with Promissory Note + Dragon's Tally Board),3230,45,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1700059,Toxic Memorial Mob - Scrap Iron (with Promissory Note + Dragon's Tally Board),6000,135,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1700060,Toxic Memorial Mob - Black Gunpowder (with Promissory Note + Dragon's Tally Board),6100,135,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1700061,,2800,450,-1,71701110,-1,-1,0,3,-1,[0|0],0,1
+1700062,,6700,1800,-1,71701120,-1,-1,0,3,-1,[0|0],0,1
+1700063,瘴氣屍蠟: 心臟,9335,27000,-1,71701130,-1,1,0,3,-1,[0|0],0,1
+1700064,6029,2800,450,-1,-1,6029,-1,0,3,-1,[0|0],0,1
+1700065,6029,3040,900,-1,-1,6029,-1,0,3,-1,[0|0],0,1
+1700066,6029,3708,1000,-1,-1,6029,-1,0,3,-1,[0|0],0,1
+1700067,6029,3030,216,-1,-1,6029,-1,0,3,-1,[0|0],0,1
+1700068,6029,10000,450,-1,71701180,6029,-1,0,3,-1,[0|0],0,1
+2000000,Shugendo Memorial Mob - Five-color Rice,3580,1600,-1,72001000,-1,1,0,3,-1,[0|0],0,1
+2000001,Shugendo Memorial Mob - Scrap Magnetite,6010,330,-1,72001010,-1,2,0,3,-1,[0|0],0,1
+2000002,Shugendo Memorial Mob - Ako's Sugar,3400,80,-1,72001020,-1,3,0,3,-1,[0|0],0,1
+2000003,Shugendo Memorial Mob - Ungo's Sugar,3420,80,-1,72001030,-1,5,0,3,-1,[0|0],0,1
+2000004,Shugendo Memorial Mob - Persimmon,3070,30,-1,72001040,-1,2,0,3,-1,[0|0],0,1
+2000005,Shugendo Memorial Mob - Light Coin Purse,3700,110,-1,72001050,-1,2,0,3,-1,[0|0],0,1
+2000006,Shugendo Memorial Mob - Heavy Coin Purse,3704,550,-1,72001060,-1,3,0,3,-1,[0|0],0,1
+2000007,Shugendo Memorial Mob - Bulging Coin Purse,3708,1100,-1,72001070,-1,2,0,3,-1,[0|0],0,1
+2000008,Shugendo Memorial Mob - Dragon's Blood Droplet,5600,180,-1,72001080,9093,1,0,3,-1,[0|0],0,1
+2000009,Shugendo Memorial Mob - Snap Seed (with Dragon's Tally Board),3530,80,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+2000010,Shugendo Memorial Mob - Divine Confetti (with Dragon's Tally Board),3450,300,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+2000011,Shugendo Memorial Mob - Eel Liver (with Dragon's Tally Board),3230,50,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+2000012,Shugendo Memorial Mob - Scrap Iron (with Dragon's Tally Board),6000,150,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+2000013,Shugendo Memorial Mob - Black Gunpowder (with Dragon's Tally Board),6100,150,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+2000014,Shugendo Memorial Mob - Dragon's Blood Droplet,5600,240,-1,72001140,9098,1,0,3,-1,[0|0],0,1
+2000015,,6700,2000,-1,72001150,-1,-1,0,3,-1,[0|0],0,1
+2000016,染血的大品般若經,9325,20000,-1,72001160,-1,1,0,3,-1,[0|0],0,1
+2000017,6029,3720,2400,-1,-1,6029,-1,0,3,-1,[0|0],0,1
+2000018,6029,8460,900,-1,72001180,6029,-1,0,3,-1,[0|0],0,1
+2000019,6029,8490,10000,-1,72001190,6029,-1,0,3,-1,[0|0],0,1
+2000020,6029,2850,600,-1,-1,6029,-1,0,3,-1,[0|0],0,1
+2000021,6029,3040,1000,-1,-1,6029,-1,0,3,-1,[0|0],0,1
+2000050,Shugendo Memorial Mob - Five-color Rice (with Promissory Note),3580,1440,-1,72001000,-1,1,0,3,-1,[0|0],0,1
+2000051,Shugendo Memorial Mob - Scrap Magnetite (with Promissory Note),6010,297,-1,72001010,-1,2,0,3,-1,[0|0],0,1
+2000052,Shugendo Memorial Mob - Ako's Sugar (with Promissory Note),3400,72,-1,72001020,-1,3,0,3,-1,[0|0],0,1
+2000053,Shugendo Memorial Mob - Ungo's Sugar (with Promissory Note),3420,72,-1,72001030,-1,5,0,3,-1,[0|0],0,1
+2000054,Shugendo Memorial Mob - Persimmon (with Promissory Note),3070,27,-1,72001040,-1,2,0,3,-1,[0|0],0,1
+2000055,Shugendo Memorial Mob - Light Coin Purse (with Promissory Note),3700,100,-1,72001050,-1,2,0,3,-1,[0|0],0,1
+2000056,Shugendo Memorial Mob - Heavy Coin Purse (with Promissory Note),3704,500,-1,72001060,-1,3,0,3,-1,[0|0],0,1
+2000057,Shugendo Memorial Mob - Bulging Coin Purse (with Promissory Note),3708,1000,-1,72001070,-1,2,0,3,-1,[0|0],0,1
+2000058,Shugendo Memorial Mob - Dragon's Blood Droplet (with Promissory Note),5600,162,-1,72001080,9093,1,0,3,-1,[0|0],0,1
+2000059,Shugendo Memorial Mob - Snap Seed (with Promissory Note + Dragon's Tally Board),3530,72,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+2000060,Shugendo Memorial Mob - Divine Confetti (with Promissory Note + Dragon's Tally Board),3450,270,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+2000061,Shugendo Memorial Mob - Eel Liver (with Promissory Note + Dragon's Tally Board),3230,45,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+2000062,Shugendo Memorial Mob - Scrap Iron (with Promissory Note + Dragon's Tally Board),6000,135,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+2000063,Shugendo Memorial Mob - Black Gunpowder (with Promissory Note + Dragon's Tally Board),6100,135,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+2000064,Shugendo Memorial Mob - Dragon's Blood Droplet (with Promissory Note),5600,216,-1,72001140,9098,1,0,3,-1,[0|0],0,1
+2000065,,6700,1800,-1,72001150,-1,-1,0,3,-1,[0|0],0,1
+2000066,染血的大品般若經,9325,18000,-1,72001160,-1,1,0,3,-1,[0|0],0,1
+2000067,6029,3720,2160,-1,-1,6029,-1,0,3,-1,[0|0],0,1
+2000068,6029,8460,810,-1,72001180,6029,-1,0,3,-1,[0|0],0,1
+2000069,6029,8490,9000,-1,72001190,6029,-1,0,3,-1,[0|0],0,1
+2000070,6029,2850,540,-1,-1,6029,-1,0,3,-1,[0|0],0,1
+2000071,6029,3040,900,-1,-1,6029,-1,0,3,-1,[0|0],0,1
+2500000,Pot Noble Koremori - Mask Fragment: Left,5501,0,12,72501000,-1,1,0,3,-1,[0|0],0,1
+2500001,Pot Noble Koremori - Lapis Lazuli,6400,0,6,72501020,-1,2,0,3,-1,[0|0],0,1
+2500002,Pot Noble Koremori - Dragon's Blood Droplet,5600,0,1,72501030,-1,1,0,3,-1,[0|0],0,1
+2500003,Pot Noble Koremori - Red Lump,3051,0,3,-1,59,-1,0,3,-1,[0|0],0,1
+2500004,Pot Noble Koremori - Floating Passage Text,2461,0,5,71001000,1622,1,0,3,-1,[0|0],0,1
+2500005,Pot Noble Koremori - Withered Red Gourd,3310,0,2,71001010,1622,1,0,3,-1,[0|0],0,1
+2500006,Pot Noble Koremori - Mask Fragment: Right,5500,0,7,71001020,1622,1,0,3,-1,[0|0],0,1
+2500007,Pot Noble Koremori - Divine Grass,3040,0,1,71001040,1622,1,0,3,-1,[0|0],0,1
+2500008,,2800,0,6,-1,59,-1,0,3,-1,[0|0],0,1
+2500009,,6700,0,10,-1,59,-1,0,3,-1,[0|0],0,1
+2500010,魔緣之羽,5870,0,25,72501110,-1,1,0,3,-1,[0|0],0,1
+2500011,蓬萊泉水,9346,0,20,72501120,-1,1,0,3,-1,[0|0],0,1
+2500012,霸王的吐息,5880,0,25,72501130,-1,1,0,3,-1,[0|0],0,1
+2500013,櫻露,9009,0,50,72501140,-1,1,0,3,-1,[0|0],0,1
+2500014,異端者彎火,5960,0,25,72501150,-1,1,0,3,-1,[0|0],0,1
+2500015,6029,4570,0,16,-1,6029,-1,0,3,-1,[0|0],0,1
+2500016,6029,4580,0,8,-1,6029,-1,0,3,-1,[0|0],0,1
+2500017,6029,8450,0,9,-1,6029,-1,0,3,-1,[0|0],0,1
+2500018,6029,3708,0,1,-1,6029,-1,0,3,-1,[0|0],0,1
+2500019,6029,8460,0,7,-1,6029,-1,0,3,-1,[0|0],0,1
+9000000,,1000,-1,-1,-1,6205,-1,0,3,-1,[0|0],0,50
+9100000,,1000,-1,-1,-1,6205,-1,0,3,-1,[0|0],0,50
+9620000,,4000,-1,-1,79621000,-1,1,0,4,-1,[0|0],0,1
+9620001,,1020,-1,-1,79621010,-1,2,0,3,-1,[0|0],0,3
+9620002,,73000,-1,-1,79621020,-1,1,0,0,-1,[0|0],0,1
+9620003,,4000,-1,-1,-1,6002,-1,0,3,-1,[0|0],0,1
+9620004,,4000,-1,-1,-1,6002,-1,0,3,-1,[0|0],0,1
+9620006,,4100,-1,-1,-1,6002,-1,0,3,-1,[0|0],0,1
+9620007,,4100,-1,-1,-1,6002,-1,0,3,-1,[0|0],0,1
+9620008,,4100,-1,-1,-1,6002,-1,0,3,-1,[0|0],0,1
+9620009,,2200,-1,-1,-1,6002,-1,0,3,-1,[0|0],0,1
+9620010,,72000,-1,-1,-1,6002,-1,0,0,-1,[0|0],0,1
+9620011,,71000,-1,-1,-1,6002,-1,0,0,-1,[0|0],0,1
+9620100,,2110,-1,-1,79621030,-1,1,0,3,-1,[0|0],0,1
+9620101,,10300,-1,-1,79621040,-1,1,0,3,-1,[0|0],0,1
+9620102,,4000,-1,-1,79621050,-1,1,0,3,-1,[0|0],0,1.5
+9620103,,4100,-1,-1,79621060,-1,1,0,3,-1,[0|0],0,1.5
+9620200,,2500,-1,-1,79621070,-1,1,0,3,-1,[0|0],0,1
+9620201,,4010,-1,-1,79621080,-1,1,0,3,-1,[0|0],0,1
+9620202,,4100,-1,-1,79621090,-1,1,0,3,-1,[0|0],0,5
+9620300,,1000,-1,-1,-1,-1,-1,0,3,-1,[0|0],0,3
+9620301,,1010,-1,-1,-1,-1,-1,0,3,-1,[0|0],0,10
+9620302,,1020,-1,-1,-1,-1,-1,0,3,-1,[0|0],0,18
+9999000,,10500,-1,-1,-1,-1,-1,0,3,-1,[0|0],0,1
+9999001,,2000,-1,-1,-1,-1,-1,0,3,-1,[0|0],0,1
+9999002,,4000,-1,-1,-1,-1,-1,0,3,-1,[0|0],0,1
+9999003,,4000,-1,-1,-1,-1,-1,0,3,-1,[0|0],0,1
+9999004,,4000,-1,-1,-1,-1,-1,0,3,-1,[0|0],0,1
+9999005,,4100,-1,-1,-1,-1,-1,0,3,-1,[0|0],0,1
+9999006,,4100,-1,-1,-1,-1,-1,0,3,-1,[0|0],0,1
+9999007,,4110,-1,-1,-1,-1,-1,0,3,-1,[0|0],0,1
+9999008,,2200,-1,-1,-1,-1,-1,0,3,-1,[0|0],0,1
+9999009,,72000,-1,-1,-1,-1,-1,0,0,-1,[0|0],0,1
+9999010,,70000,-1,-1,-1,-1,-1,0,0,-1,[0|0],0,1
+9999011,,2110,-1,-1,-1,-1,-1,0,3,-1,[0|0],0,1
+9999012,,10300,-1,-1,-1,-1,-1,0,3,-1,[0|0],0,1
+9999013,,4000,-1,-1,-1,-1,-1,0,3,-1,[0|0],0,2
+9999014,,4100,-1,-1,-1,-1,-1,0,3,-1,[0|0],0,2
+9999015,,2500,-1,-1,-1,-1,-1,0,3,-1,[0|0],0,1
+9999016,,4010,-1,-1,-1,-1,-1,0,3,-1,[0|0],0,1
+9999017,,4100,-1,-1,-1,-1,-1,0,3,-1,[0|0],0,2
+9999018,,1000,-1,-1,-1,-1,-1,0,3,-1,[0|0],0,1
+9999019,,1010,-1,-1,-1,-1,-1,0,3,-1,[0|0],0,1
+9999020,,1020,-1,-1,79901200,-1,10,0,3,-1,[0|0],0,1
+9999021,,10010,-1,-1,-1,-1,-1,0,3,-1,[0|0],0,1
+9999022,,9800,-1,-1,-1,-1,-1,0,0,-1,[0|0],0,1
+9999023,,10300,-1,-1,-1,-1,-1,0,0,-1,[0|0],0,1
+9999024,,9600,-1,-1,-1,-1,-1,0,0,-1,[0|0],0,1
+9999025,,10300,-1,-1,-1,-1,-1,0,3,-1,[0|0],0,1
+9999026,,10400,-1,-1,-1,-1,-1,0,3,-1,[0|0],0,1
+9999027,,3005,-1,-1,-1,-1,-1,0,3,-1,[0|0],0,1
+9999028,,2500,-1,-1,-1,-1,-1,0,3,-1,[0|0],0,1
+9999029,,4000,-1,-1,-1,-1,-1,0,3,-1,[0|0],0,1
+9999030,,4010,-1,-1,-1,-1,-1,0,3,-1,[0|0],0,1
+9999031,,4100,-1,-1,-1,-1,-1,0,3,-1,[0|0],0,1
+9999032,,4200,-1,-1,-1,-1,-1,0,3,-1,[0|0],0,1
+9999033,,2000,-1,-1,-1,-1,-1,0,3,-1,[0|0],0,1
+9999034,,2100,-1,-1,-1,-1,-1,0,3,-1,[0|0],0,1
+9999035,,2110,-1,-1,-1,-1,-1,0,3,-1,[0|0],0,1
+9999036,,2120,-1,-1,-1,-1,-1,0,3,-1,[0|0],0,1
+9999037,,2200,-1,-1,-1,-1,-1,0,3,-1,[0|0],0,1
+9999100,,10010,0,1,-1,-1,-1,0,3,-1,[0|0],0,1
+9999101,,2000,0,2,-1,-1,-1,0,3,-1,[0|0],0,1
+9999102,,4000,0,3,-1,-1,-1,0,3,-1,[0|0],0,1
+9999103,,4000,0,1,-1,-1,-1,0,3,-1,[0|0],0,1
+9999104,,4000,0,2,-1,-1,-1,0,3,-1,[0|0],0,1
+9999105,,3005,0,3,-1,-1,-1,0,3,-1,[0|0],0,1
+9999200,,70000,0,100000,79901100,-1,1,0,0,-1,[0|0],0,1
+9999201,,71000,0,100010,79901110,-1,1,0,0,-1,[0|0],0,1
+9999202,,72000,0,100020,79901120,-1,1,0,0,-1,[0|0],0,1
+9999203,,73000,0,100030,79901130,-1,1,0,0,-1,[0|0],0,1
+9999204,,74000,0,100040,79901140,-1,1,0,0,-1,[0|0],0,1
+9999205,,75000,0,100050,79901150,-1,1,0,0,-1,[0|0],0,1
+9999206,,76000,0,100060,79901160,-1,1,0,0,-1,[0|0],0,1
+9999207,,77000,0,100070,79901170,-1,1,0,0,-1,[0|0],0,1
+9999208,,78000,0,100080,79901180,-1,1,0,0,-1,[0|0],0,1
+9999209,,79000,0,100090,79901190,-1,1,0,0,-1,[0|0],0,1
