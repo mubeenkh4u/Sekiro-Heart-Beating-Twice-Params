@@ -39,6 +39,7 @@ ID,Name,equipId,value,mtrlId,eventFlag,flagId_forRelease,sellQuantity,shopType,e
 1100013,6029,3040,1000,-1,-1,6029,-1,0,3,-1,[0|0],0,1
 1100014,6029,10000,500,-1,71101140,6029,-1,0,3,-1,[0|0],0,1
 1100015,6029,9458,250,-1,-1,6029,-1,0,3,-1,[0|0],0,1
+1100016,Crow's Bed Memorial Mob - Cleaving Thunder Blade,75500,250,-1,-1,6021,-1,0,0,-1,[0|0],0,1
 1100020,Crow's Bed Memorial Mob - Scrap Iron,6000,1,-1,-1,-1,-1,0,3,-1,[0|0],0,1
 1100021,Crow's Bed Memorial Mob - Scrap Magnetite,6010,1,-1,-1,-1,-1,0,3,-1,[0|0],0,1
 1100022,Crow's Bed Memorial Mob - Adamantite Scrap,6020,1,-1,-1,-1,-1,0,3,-1,[0|0],0,1
@@ -66,6 +67,7 @@ ID,Name,equipId,value,mtrlId,eventFlag,flagId_forRelease,sellQuantity,shopType,e
 1100062,6029,5600,162,-1,-1,6029,-1,0,3,-1,[0|0],0,1
 1100063,6029,3040,900,-1,-1,6029,-1,0,3,-1,[0|0],0,1
 1100064,6029,10000,450,-1,71101140,6029,-1,0,3,-1,[0|0],0,1
+1100066,Crow's Bed Memorial Mob - Cleaving Thunder Blade (Promissory Note),75500,225,-1,-1,6021,-1,0,0,-1,[0|0],0,1
 1100070,Crow's Bed Memorial Mob - Scrap Iron (Promissory Note),6000,1,-1,-1,-1,-1,0,3,-1,[0|0],0,1
 1100071,Crow's Bed Memorial Mob - Scrap Magnetite (Promissory Note),6010,1,-1,-1,-1,-1,0,3,-1,[0|0],0,1
 1100072,Crow's Bed Memorial Mob - Adamantite Scrap (Promissory Note),6020,1,-1,-1,-1,-1,0,3,-1,[0|0],0,1
