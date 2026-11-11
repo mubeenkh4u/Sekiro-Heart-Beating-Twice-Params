@@ -1,0 +1,36 @@
+name: Port HBT v1.09 Local Parameter Patches
+on:
+  push:
+    branches:
+      - v1.09
+permissions:
+  contents: write
+jobs:
+  port-patches:
+    if: github.event.head_commit.message == 'Run HBT v1.09 parameter patch'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout v1.09
+        uses: actions/checkout@v4
+        with:
+          ref: v1.09
+          persist-credentials: true
+      - name: Apply and verify the CSV patches
+        shell: bash
+        run: |
+          python3 scripts/port_hbt_v109.py
+          python3 scripts/port_hbt_v109.py --check
+          git diff --check
+          git diff --stat
+      - name: Commit patched parameter CSVs to v1.09
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add SpEffectParam.csv ShopLineupParam.csv
+          if git diff --cached --quiet; then
+            echo "No changes needed"
+          else
+            git commit -m "Port local HBT gameplay parameter fixes to v1.09"
+            git push origin HEAD:v1.09
+          fi
